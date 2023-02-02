@@ -11,6 +11,6 @@ Experience:
 * R (tidyverse, ggplot2, tensorflow)
 * SQL, Oracle PL/SQL
 * Git/GitHub/GitLab
-* Jupyter Notebook, Visual Studio Code
+* Jupyter Notebook, Visual Studio Code, RStudio
 * Microsoft Office (Excel, Word, PowerPoint)
 * PowerBI
