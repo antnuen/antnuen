@@ -10,7 +10,7 @@ Experience:
 * Python (Pandas, Numpy, Tensorflow, Scikit-learn, Matplotlib, Seaborn)
 * R (tidyverse, ggplot2, tensorflow)
 * SQL, Oracle PL/SQL
-* Git/GitHub/GitLab
+* Git, GitHub, GitLab
 * Jupyter Notebook, Visual Studio Code, RStudio
 * Microsoft Office (Excel, Word, PowerPoint)
 * PowerBI
