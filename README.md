@@ -1,6 +1,6 @@
 # An Nguyen
 🎓  | MSc Compuational Methods in Ecology and Evolution - Imperial College London (2022) <br>
-🎓  | BSC Cellular and Molecular Medicine (2021) <br>
+🎓  | BSC Cellular and Molecular Medicine - University of Bristol (2021) <br>
 📧  | @antnuen@gmail.com <br>
 📍  | Based in London, UK <br>
 
